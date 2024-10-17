@@ -1,0 +1,171 @@
+Tsareena honor magicbook из команды зеленых вступает в бой!
+Mantyke maven из команды белых вступает в бой!
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Tsareena honor magicbook использует Play Nice. 
+Mantyke maven уменьшает атаку.
+
+Mantyke maven использует Rock Slide. 
+Tsareena honor magicbook теряет 18 здоровья.
+
+Tsareena honor magicbook использует Sweet Scent. 
+Mantyke maven уменьшает уклоняемость.
+
+Mantyke maven использует Rock Slide. 
+Tsareena honor magicbook теряет 21 здоровья.
+
+Tsareena honor magicbook промахивается
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Tsareena honor magicbook промахивается
+
+Mantyke maven использует Rock Slide. 
+Tsareena honor magicbook теряет 13 здоровья.
+
+Tsareena honor magicbook использует Play Nice. 
+Mantyke maven уменьшает атаку.
+
+Mantyke maven использует Signal Beam. 
+Tsareena honor magicbook теряет 37 здоровья.
+
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Tsareena honor magicbook использует Play Nice. 
+Mantyke maven уменьшает атаку.
+
+Mantyke maven использует Rock Slide. 
+Критический удар!
+Tsareena honor magicbook теряет 28 здоровья.
+Tsareena honor magicbook теряет сознание.
+Mantine karn из команды зеленых вступает в бой!
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 22 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Критический удар!
+Mantine karn теряет 58 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 7 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 10 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 21 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 23 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 20 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 25 здоровья.
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 12 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 18 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 4 здоровья.
+
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 16 здоровья.
+
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 10 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 21 здоровья.
+
+Mantine karn использует Signal Beam. 
+Критический удар!
+Mantyke maven теряет 11 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Критический удар!
+Mantine karn теряет 48 здоровья.
+Mantine karn теряет сознание.
+Emolga max из команды зеленых вступает в бой!
+Emolga max использует Iron Tail. 
+Mantyke maven теряет 19 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Критический удар!
+Emolga max теряет 17 здоровья.
+
+Emolga max использует Thunder Wave. 
+Mantyke maven парализован
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Emolga max использует Thunder Wave. 
+Mantyke maven парализован
+
+Mantyke maven использует Signal Beam. 
+Критический удар!
+Emolga max теряет 21 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Критический удар!
+Emolga max теряет 21 здоровья.
+
+Emolga max использует Tickle. 
+Mantyke maven уменьшает атаку.
+Mantyke maven уменьшает защиту.
+
+Emolga max использует Wild Charge. 
+Mantyke maven теряет 86 здоровья.
+Emolga max теряет 21 здоровья.
+
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Emolga max использует Wild Charge. 
+Mantyke maven теряет 241 здоровья.
+Emolga max теряет 60 здоровья.
+Оба покемона теряют сознание.
+В команде зеленых не осталось покемонов.
+Команда белых побеждает в этом бою!

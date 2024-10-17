@@ -1,0 +1,118 @@
+Tsareena honor magicbook из команды полосатых вступает в бой!
+Mantyke maven из команды синих вступает в бой!
+Mantyke maven использует Signal Beam. 
+Критический удар!
+Tsareena honor magicbook теряет 84 здоровья.
+
+Tsareena honor magicbook использует Facade. 
+Mantyke maven теряет 12 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Tsareena honor magicbook теряет 10 здоровья.
+
+Tsareena honor magicbook использует Facade. 
+Mantyke maven теряет 12 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Tsareena honor magicbook теряет 15 здоровья.
+
+Tsareena honor magicbook использует Sweet Scent. 
+Mantyke maven уменьшает уклоняемость.
+
+Mantyke maven использует Signal Beam. 
+Критический удар!
+Tsareena honor magicbook теряет 73 здоровья.
+Tsareena honor magicbook теряет сознание.
+Mantine karn из команды полосатых вступает в бой!
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rock Slide. 
+Критический удар!
+Mantyke maven теряет 80 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rock Slide. 
+Критический удар!
+Mantyke maven теряет 52 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 25 здоровья.
+
+Mantine karn использует Rock Slide. 
+Критический удар!
+Mantyke maven теряет 51 здоровья.
+
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 43 здоровья.
+Mantyke maven теряет сознание.
+Steene org.apache.maven.plugins из команды синих вступает в бой!
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Steene org.apache.maven.plugins промахивается
+
+Mantine karn использует Signal Beam. 
+Steene org.apache.maven.plugins теряет 56 здоровья.
+
+Steene org.apache.maven.plugins промахивается
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Steene org.apache.maven.plugins использует Play Nice. 
+Mantine karn уменьшает атаку.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Steene org.apache.maven.plugins использует Play Nice. 
+Mantine karn уменьшает атаку.
+
+Mantine karn использует Signal Beam. 
+Steene org.apache.maven.plugins теряет 83 здоровья.
+Steene org.apache.maven.plugins теряет сознание.
+Bounsweet java из команды синих вступает в бой!
+Mantine karn использует Rock Slide. 
+Bounsweet java теряет 28 здоровья.
+
+Bounsweet java использует Facade. 
+Критический удар!
+Mantine karn теряет 19 здоровья.
+
+Mantine karn использует Rock Slide. 
+Bounsweet java теряет 32 здоровья.
+
+Bounsweet java использует Facade. 
+Mantine karn теряет 13 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Bounsweet java использует Facade. 
+Mantine karn теряет 14 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Bounsweet java использует Facade. 
+Mantine karn теряет 11 здоровья.
+
+Mantine karn использует Rock Slide. 
+Критический удар!
+Bounsweet java теряет 55 здоровья.
+Bounsweet java теряет сознание.
+В команде синих не осталось покемонов.
+Команда полосатых побеждает в этом бою!

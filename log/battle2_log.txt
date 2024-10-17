@@ -1,0 +1,521 @@
+Tsareena honor magicbook из команды красных вступает в бой!
+Mantyke maven из команды зеленых вступает в бой!
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Tsareena honor magicbook использует Play Nice. 
+Mantyke maven уменьшает атаку.
+
+Mantyke maven использует Signal Beam. 
+Tsareena honor magicbook теряет 61 здоровья.
+
+Tsareena honor magicbook использует Facade. 
+Mantyke maven теряет 13 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Tsareena honor magicbook промахивается
+
+Mantyke maven использует Signal Beam. 
+Tsareena honor magicbook теряет 53 здоровья.
+Tsareena honor magicbook теряет сознание.
+Mantine karn из команды красных вступает в бой!
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 40 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 6 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 19 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 25 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 9 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 12 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 21 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 6 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Критический удар!
+Mantine karn теряет 28 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 8 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 22 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 7 здоровья.
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 9 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 19 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 8 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 22 здоровья.
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 13 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 23 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 7 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 5 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven растерянно попадает по себе. 
+Mantyke maven теряет 8 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 24 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 7 здоровья.
+
+
+Mantyke maven использует Signal Beam. 
+Критический удар!
+Mantine karn теряет 12 здоровья.
+
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 4 здоровья.
+
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 13 здоровья.
+
+Mantyke maven растерянно попадает по себе. 
+Mantyke maven теряет 8 здоровья.
+
+
+Mantyke maven растерянно попадает по себе. 
+Mantyke maven теряет 8 здоровья.
+
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 34 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 4 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 6 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 10 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 4 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 8 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 42 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Критический удар!
+Mantine karn теряет 30 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 9 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 14 здоровья.
+
+Mantine karn использует Signal Beam. 
+Mantyke maven теряет 10 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven растерянно попадает по себе. 
+Mantyke maven теряет 6 здоровья.
+
+Mantine karn использует Signal Beam. 
+Критический удар!
+Mantyke maven теряет 15 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 5 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven растерянно попадает по себе. 
+Mantyke maven теряет 4 здоровья.
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 42 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven растерянно попадает по себе. 
+Mantyke maven теряет 5 здоровья.
+
+Mantine karn использует Rock Slide. 
+Критический удар!
+Mantyke maven теряет 65 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven растерянно попадает по себе. 
+Mantyke maven теряет 8 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 5 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 24 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 13 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 24 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 7 здоровья.
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 24 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 4 здоровья.
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 9 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 17 здоровья.
+
+Mantine karn растерянно попадает по себе. 
+Mantine karn теряет 8 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Критический удар!
+Mantine karn теряет 33 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 22 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 22 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Критический удар!
+Mantine karn теряет 43 здоровья.
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 45 здоровья.
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 21 здоровья.
+
+Mantine karn использует Signal Beam. 
+Критический удар!
+Mantyke maven теряет 10 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 42 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 4 здоровья.
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 26 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Mantyke maven использует Rock Slide. 
+Mantine karn теряет 16 здоровья.
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 39 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Mantyke maven использует Rest. 
+Mantyke maven засыпает
+
+Mantine karn использует Rock Slide. 
+Критический удар!
+Mantyke maven теряет 85 здоровья.
+
+Mantyke maven использует Signal Beam. 
+Mantine karn теряет 6 здоровья.
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+
+Mantine karn использует Rock Slide. 
+Mantyke maven теряет 37 здоровья.
+Mantyke maven теряет сознание.
+Steene org.apache.maven.plugins из команды зеленых вступает в бой!
+Mantine karn использует Rock Slide. 
+Steene org.apache.maven.plugins теряет 22 здоровья.
+
+Steene org.apache.maven.plugins использует Facade. 
+Mantine karn теряет 7 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+
+Mantine karn использует Signal Beam. 
+Steene org.apache.maven.plugins теряет 46 здоровья.
+
+Steene org.apache.maven.plugins использует Play Nice. 
+Mantine karn уменьшает атаку.
+
+Mantine karn использует Rock Slide. 
+Steene org.apache.maven.plugins теряет 34 здоровья.
+
+Steene org.apache.maven.plugins использует Facade. 
+Mantine karn теряет 12 здоровья.
+
+Mantine karn использует Signal Beam. 
+Steene org.apache.maven.plugins теряет 73 здоровья.
+Steene org.apache.maven.plugins теряет сознание.
+Bounsweet java из команды зеленых вступает в бой!
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Bounsweet java промахивается
+
+Mantine karn использует Rock Slide. 
+Критический удар!
+Bounsweet java теряет 48 здоровья.
+
+Bounsweet java промахивается
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Bounsweet java использует Facade. 
+Mantine karn теряет 14 здоровья.
+
+Mantine karn использует Rest. 
+Mantine karn засыпает
+
+Bounsweet java промахивается
+
+Mantine karn использует Rock Slide. 
+Bounsweet java теряет 16 здоровья.
+
+Bounsweet java промахивается
+
+Mantine karn использует Signal Beam. 
+Bounsweet java теряет 45 здоровья.
+
+Bounsweet java промахивается
+
+Mantine karn использует Roost. 
+Mantine karn восстанавливает 76 здоровья.
+
+Bounsweet java использует Facade. 
+Mantine karn теряет 13 здоровья.
+
+Mantine karn использует Signal Beam. 
+Bounsweet java теряет 84 здоровья.
+Bounsweet java теряет сознание.
+В команде зеленых не осталось покемонов.
+Команда красных побеждает в этом бою!
