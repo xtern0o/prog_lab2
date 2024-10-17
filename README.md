@@ -12,6 +12,8 @@ mvn package
 
 ## Инструкция по запуску
 
+запускаем джарник ураааааа!!!
+
 ```bash
 java -jar target/lab2_reload-1.1-jar-with-dependencies.jar
 ```
