@@ -2,7 +2,7 @@ package org.example.moves.status_moves;
 
 import ru.ifmo.se.pokemon.*;
 
-public class Roost extends StatusMove {
+public final class Roost extends StatusMove {
     public Roost() {
         super(Type.FLYING, 0, 0);
     }

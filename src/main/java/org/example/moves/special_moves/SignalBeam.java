@@ -2,7 +2,7 @@ package org.example.moves.special_moves;
 
 import ru.ifmo.se.pokemon.*;
 
-public class SignalBeam extends SpecialMove {
+public final class SignalBeam extends SpecialMove {
     public SignalBeam() {
         super(Type.BUG, 75, 100);
     }

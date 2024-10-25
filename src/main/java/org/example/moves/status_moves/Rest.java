@@ -2,7 +2,7 @@ package org.example.moves.status_moves;
 
 import ru.ifmo.se.pokemon.*;
 
-public class Rest extends StatusMove {
+public final class Rest extends StatusMove {
     public Rest() {
         super(Type.PSYCHIC, 0, 0);
     }

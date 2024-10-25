@@ -4,7 +4,7 @@ import org.example.moves.physical_moves.*;
 import org.example.moves.status_moves.*;
 import ru.ifmo.se.pokemon.*;
 
-public class Emolga extends Pokemon {
+public final class Emolga extends Pokemon {
     public Emolga(String name, int level) {
         super(name, level);
         this.setStats(55, 75, 60, 75, 60, 103);

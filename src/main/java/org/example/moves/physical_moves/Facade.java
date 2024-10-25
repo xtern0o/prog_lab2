@@ -2,7 +2,7 @@ package org.example.moves.physical_moves;
 
 import ru.ifmo.se.pokemon.*;
 
-public class Facade extends PhysicalMove {
+public final class Facade extends PhysicalMove {
     private boolean isCritical = false;
 
     public Facade() {

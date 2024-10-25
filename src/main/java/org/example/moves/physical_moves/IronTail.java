@@ -2,7 +2,7 @@ package org.example.moves.physical_moves;
 
 import ru.ifmo.se.pokemon.*;
 
-public class IronTail extends PhysicalMove {
+public final class IronTail extends PhysicalMove {
     public IronTail() {
         super(Type.STEEL, 100, 75);
         // gen2

@@ -2,7 +2,7 @@ package org.example.moves.status_moves;
 
 import ru.ifmo.se.pokemon.*;
 
-public class Tickle extends StatusMove {
+public final class Tickle extends StatusMove {
     public Tickle() {
         super(Type.NORMAL, 0, 100);
     }
