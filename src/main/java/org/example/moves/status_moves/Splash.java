@@ -8,7 +8,12 @@ public final class Splash extends StatusMove {
     }
 
     @Override
+    protected boolean checkAccuracy(Pokemon pAtt, Pokemon pDef) {
+        return true;
+    }
+
+    @Override
     protected String describe() {
-        return "использует Splash (literally НИЧЕГО не происходит)";
+        return "использует Splash (НИЧЕГО не происходит)";
     }
 }
